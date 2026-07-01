@@ -1,0 +1,10 @@
+{
+  "name": "raft-consensus-visualizer",
+  "version": "1.0.0",
+  "description": "An interactive, from-scratch simulation and visualization of the Raft consensus algorithm (leader election and log replication) with network partition and node crash fault injection.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/*.test.mjs"
+  },
+  "license": "MIT"
+}
